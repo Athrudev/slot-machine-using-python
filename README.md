@@ -19,11 +19,11 @@ This project implements a text-based slot machine game with data tracking and vi
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/python-slot-machine.git
+   https://github.com/Athrudev/slot-machine-using-python.git
    ```
 2. Navigate to the project directory:
    ```
-   cd python-slot-machine
+   cd slot-machine-using-python
    ```
 3. Install required packages:
    ```
@@ -33,7 +33,7 @@ This project implements a text-based slot machine game with data tracking and vi
 ## Usage
 Run the game by executing:
 ```
-python slot_machine.py
+python main.py
 ```
 
 Follow the on-screen prompts to play:
@@ -60,7 +60,7 @@ You can customize the game by modifying:
 - `MAX_LINES`, `MAX_BET`, and `MIN_BET` constants to adjust betting limits
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/python-slot-machine/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Athrudev/slot-machine-using-python/issues) if you want to contribute.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
