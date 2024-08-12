@@ -74,7 +74,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Author
-[Your Name]
+Atharva Kamble
 
 ## Acknowledgements
 - This project was created as a learning exercise in Python programming, data management with pandas, and data visualization with matplotlib.
