@@ -40,8 +40,9 @@ python main.py
 
 For a live preview of this project, you can use Google Colab. Click on the link below to open the notebook:
 
-[Open in Google Colab](https://colab.research.google.com/drive/14YPJViLN5e4HMbVxolQsX1RgfdrpFRQf?usp=sharing)
+[Open in Google Colab](https://colab.research.google.com/drive/1BDvpgEwmT6XnGz4KWSHR5KTBXJV5-Qn6?usp=sharing)
 
+https://colab.research.google.com/drive/1BDvpgEwmT6XnGz4KWSHR5KTBXJV5-Qn6?usp=sharing
 
 
 Follow the on-screen prompts to play:
