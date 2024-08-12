@@ -42,7 +42,6 @@ For a live preview of this project, you can use Google Colab. Click on the link 
 
 [Open in Google Colab](https://colab.research.google.com/drive/1BDvpgEwmT6XnGz4KWSHR5KTBXJV5-Qn6?usp=sharing)
 
-https://colab.research.google.com/drive/1BDvpgEwmT6XnGz4KWSHR5KTBXJV5-Qn6?usp=sharing
 
 
 Follow the on-screen prompts to play:
