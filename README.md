@@ -36,6 +36,14 @@ Run the game by executing:
 python main.py
 ```
 
+## Live Preview
+
+For a live preview of this project, you can use Google Colab. Click on the link below to open the notebook:
+
+[Open in Google Colab](https://colab.research.google.com/drive/14YPJViLN5e4HMbVxolQsX1RgfdrpFRQf?usp=sharing)
+
+
+
 Follow the on-screen prompts to play:
 1. Make an initial deposit
 2. Choose the number of lines to bet on
